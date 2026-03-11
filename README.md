@@ -17,4 +17,4 @@ https://github.com/tiago-sanchez0/modulo_1
 [Profesor Ricardo Palma]
 https://github.com/ricardorpalma/TyHM_2026
 
- # Results {.tabset}     ## Plots text     text      ## Tables     more text
+|NOMBRE|APELLIDO|NUMERO|CORREO|
