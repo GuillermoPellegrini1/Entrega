@@ -1,4 +1,11 @@
-#[4/3, 20:15] Guille: https://github.com/GuillermoPellegrini1/Modulo-1
-[4/3, 20:16] Guille: https://github.com/fabricio-montuori/MODULO-1
-[4/3, 20:16] Guille: https://github.com/mateo-ambrogetti/MODULO-1 Entrega
-https://github.com/Rocio-Susana-Gomez/MODULO_1
+[Guillrmo Pellegrini]
+https://github.com/GuillermoPellegrini1/Modulo-1
+[Fabricio Montuori]
+https://github.com/fabricio-montuori/MODULO-1
+[Mateo Ambrogetti]
+https://github.com/mateo-ambrogetti/MODULO-1
+[Rocio Gomez]
+.(https://github.com/Rocio-Susana-Gomez/MODULO_1).
+[Tiago Sanchez]
+https://
+[Profesor Ricardo Palma]
