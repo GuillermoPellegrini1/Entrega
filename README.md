@@ -17,4 +17,7 @@ https://github.com/tiago-sanchez0/modulo_1
 [Profesor Ricardo Palma]
 https://github.com/ricardorpalma/TyHM_2026
 
-|NOMBRE|APELLIDO|NUMERO|CORREO|
+|NOMBRE Y APELLIDO | WHATSAPP | CORREO | LINNK |
+|-----------------|---------------|-----------------------|---------------------|
+| Mateo Ambrogetti | 2612725726 | mateoambrogetti04@gmail.com | https://github.com/mateo-ambrogetti/MODULO-1 |
+
