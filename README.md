@@ -17,7 +17,7 @@ https://github.com/tiago-sanchez0/modulo_1
 [Profesor Ricardo Palma]
 https://github.com/ricardorpalma/TyHM_2026
 
-#### Tabla
+### Tabla
 
 |NOMBRE Y APELLIDO | WHATSAPP | CORREO | LINK |
 |-|-|-|-|
