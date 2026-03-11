@@ -1,4 +1,4 @@
-[Guillrmo Pellegrini]
+[Guillermo Pellegrini]
 https://github.com/GuillermoPellegrini1/Modulo-1
 [Fabricio Montuori]
 https://github.com/fabricio-montuori/MODULO-1
