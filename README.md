@@ -11,9 +11,6 @@ https://github.com/fabricio-montuori/MODULO-1
 [Mateo Ambrogetti]
 https://github.com/mateo-ambrogetti/MODULO-1
 
-[Rocio Gomez]
-.(https://github.com/Rocio-Susana-Gomez/MODULO_1).
-
 [Tiago Sanchez]
 https://github.com/tiago-sanchez0/modulo_1
 
