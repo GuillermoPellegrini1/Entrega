@@ -2,7 +2,7 @@
 ## Entrega Módulo 1
 ### Grupo: Calculito
 ![Foto de Guille](https://github.com/user-attachments/assets/d6c63e0f-00be-4abb-938d-b877f6479f2b)
-<img src="link" width="50%">
+<img src=![Foto de Guille](https://github.com/user-attachments/assets/d6c63e0f-00be-4abb-938d-b877f6479f2b) width="50%">
 [Profesor Ricardo Palma]
 https://github.com/ricardorpalma/TyHM_2026
 
