@@ -16,6 +16,7 @@ Modulo 1
 | Tiago Sánchez | 2635010994 | tiago.sanchez500@gmail.com | https://github.com/tiago-sanchez0/modulo_1 |
 | Victoria Bautista | 2615175185 | vickybautis24@gmail.com | https://github.com/Victoria-Bautista/Modulo-1 |
 | Tomas Bietti | 2617159735 | tomibietti7@gmail.com | https://github.com/tomibietti7-creator/Modulo-1 |
+
 Modulo 2
 |NOMBRE Y APELLIDO | WHATSAPP | CORREO | LINK |
 |-|-|-|-|
