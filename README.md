@@ -28,5 +28,6 @@ Modulo 2
 | Fabricio Montuori | 2615397760 | fabriciomontuori18@gmail.com | https://github.com/fabricio-montuori/MODULO-2 |
 | Guillermo Pellegrini | 2615732904 | guillermopellegrini1@gmail.com |https://github.com/GuillermoPellegrini1/modulo_2 |
 | Tiago Sánchez | 2635010994 | tiago.sanchez500@gmail.com |https://github.com/tiago-sanchez0/modulo_2|
+| Victoria Bautista | 2615175185 | vickybautis24@gmail.com |https://github.com/Victoria-Bautista/Modulo2
 | Victoria Bautista | 2615175185 | vickybautis24@gmail.com |  |
 | Tomas Bietti | 2617159735 | tomibietti7@gmail.com | https://github.com/tomibietti7-creator/Modulo-2 |
