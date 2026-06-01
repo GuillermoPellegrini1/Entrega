@@ -39,7 +39,7 @@ Modulo 3
 |NOMBRE Y APELLIDO | WHATSAPP | CORREO | LINK |
 |-|-|-|-|
 | Mateo Ambrogetti | 2612725726 | mateoambrogetti04@gmail.com |https://github.com/mateo-ambrogetti/MODULO-3 |
-| Fabricio Montuori | 2615397760 | fabriciomontuori18@gmail.com | |
+| Fabricio Montuori | 2615397760 | fabriciomontuori18@gmail.com |https://github.com/fabricio-montuori/MODULO-3 |
 | Guillermo Pellegrini | 2615732904 | guillermopellegrini1@gmail.com | |
 | Tiago Sánchez | 2635010994 | tiago.sanchez500@gmail.com ||
 | Victoria Bautista | 2615175185 | vickybautis24@gmail.com | |
