@@ -10,9 +10,7 @@
 Modulo 1 
 |NOMBRE Y APELLIDO | WHATSAPP | CORREO | LINK |
 |-|-|-|-|
-| Mateo Ambrogetti | 2612725726 | mateoambrogetti04@gmail.com | https://github.com/mateo-ambrogetti/MODULO-1
- https://github.com/mateo-ambrogetti/MODULO-2
-  https://github.com/mateo-ambrogetti/MODULO-3|
+| Mateo Ambrogetti | 2612725726 | mateoambrogetti04@gmail.com | https://github.com/mateo-ambrogetti/MODULO-1 https://github.com/mateo-ambrogetti/MODULO-2 https://github.com/mateo-ambrogetti/MODULO-3|
 | Fabricio Montuori | 2615397760 | fabriciomontuori18@gmail.com | https://github.com/fabricio-montuori/MODULO-1 
  https://github.com/fabricio-montuori/MODULO-2
   https://github.com/fabricio-montuori/MODULO-3|
